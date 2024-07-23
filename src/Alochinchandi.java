@@ -8,7 +8,7 @@ public class Alochinchandi {
 	}
     void endhukuekkadavunam ()
     {
-    	
+    	 System.out.println("done");
     }
 }
     
