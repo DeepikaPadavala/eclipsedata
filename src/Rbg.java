@@ -3,6 +3,6 @@ public class Rbg
 
 public static void main(String[]args)
   {
-    system.out.println("done");
+    System.out.println("done");
   }
 }
